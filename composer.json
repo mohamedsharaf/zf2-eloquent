@@ -1,0 +1,24 @@
+{
+    "name": "mohamedsharaf/zf2-eloquent",
+    "type": "zf-module",
+    "description": "Laravvel 5.1 Eloquent ORM module for Zend Framework 2",
+    "keywords": ["eloquent", "orm", "zend", "framework", "zf2", "laravel","laravel 5.1", "illuminate", "database"],
+    "homepage": "https://github.com/mohamedsharaf/zf2-eloquent",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mohamed Sharaf",
+            "email": "mohamedsharaf@mohamedsharaf.net",
+            "homepage": "http://mohamedsharaf.net"
+        }
+    ],
+    "require": {
+        "zendframework/zendframework": "~2.4",
+        "illuminate/database": "~5.1"
+    },
+    "autoload": {
+        "classmap": [
+            "./Module.php"
+        ]
+    }
+}
