@@ -14,11 +14,6 @@ first thanks to https://github.com/Mohamedme/eloquent-zf2 most of this work done
   `CredentialTreatmentAdapter`).
 
 ## Planned Features
-- Multi-connection configuration support.
-- Caching support.
-- Paginator support.
-- Logger support.
-- Session Handlers (not sure if needed yet).
 - Migration support (via ZFTool).
 
 ## Install
